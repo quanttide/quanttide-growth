@@ -1,0 +1,28 @@
+# AGENTS.md - Agent 工作指南
+
+本文档为 Agent（包括 CodeBuddy、Claude Code、Cursor、GitHub Copilot 等）在本仓库中工作提供指南。
+
+## 核心记忆
+
+### 项目定位
+
+量潮增长管理（quanttide-growth）是量潮知识管理体系中的**增长管理**领域第二大脑，涵盖增长策略、增长实验与增长效果评估等核心能力。
+
+### 领域仓库统一结构
+
+```
+quanttide-growth/
+├── apps/              # 可部署应用（qt{产品名} / qtcloud-{产品名}）
+├── packages/toolkit   # 共享库/工具集（独立仓库 quanttide-growth-toolkit）
+├── examples/default   # 实验室（独立仓库 quanttide-laboratory-of-growth-management）
+├── data/              # 数据类资产（context/journal/intention/profile/roadmap/insight/brochure 等）
+└── docs/              # 文档类资产（bylaw/handbook/specification/tutorial/essay/gallery）
+```
+
+## 人机协作范式
+
+1. **最小干预**：仅在用户明确请求时操作
+2. **信息复用**：优先使用已有文档内容
+3. **维护记录**：修改后同步更新 CHANGELOG.md
+4. **原子提交**：每次提交包含完整独立变更
+5. **提交即推送**：提交后默认推送到远端，除非用户明确说"只提交不推"
