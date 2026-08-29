@@ -18,9 +18,9 @@
 
 | 路径 | 说明 |
 |------|------|
-| `apps/` | 可部署应用 |
-| `packages/toolkit` | 共享库/工具集 |
-| `examples/default` | 增长管理实验室 |
+| `apps/qtgrowth` | 量潮增长中心，增长档案公开展示 (git submodule → qtgrowth) |
+| `packages/quanttide-growth-toolkit` | 增长管理工具箱 (git submodule) |
+| `examples/default` | 增长管理实验室 (git submodule → quanttide-laboratory-of-growth-management) |
 | `data/journal` | 增长管理工作日志 (git submodule → quanttide-journal-of-growth-management) |
 | `data/profile` | 增长管理工作档案 (git submodule → quanttide-profile-of-growth-management) |
 | `data/brochure` | 增长管理宣传册 (git submodule → quanttide-brochure-of-growth-management) |

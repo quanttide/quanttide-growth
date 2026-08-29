@@ -7,3 +7,12 @@
 [submodule "data/brochure"]
 	path = data/brochure
 	url = https://github.com/quanttide/quanttide-brochure-of-growth-management.git
+[submodule "apps/qtgrowth"]
+	path = apps/qtgrowth
+	url = https://github.com/quanttide/qtgrowth.git
+[submodule "packages/quanttide-growth-toolkit"]
+	path = packages/quanttide-growth-toolkit
+	url = https://github.com/quanttide/quanttide-growth-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-growth-management.git
