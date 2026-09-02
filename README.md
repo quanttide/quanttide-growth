@@ -19,12 +19,26 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtgrowth` | 量潮增长中心，增长档案公开展示 (git submodule → qtgrowth) |
+| `apps/qtcloud-growth` | 增长云应用 (git submodule → qtcloud-growth) |
 | `packages/quanttide-growth-toolkit` | 增长管理工具箱 (git submodule) |
 | `examples/default` | 增长管理实验室 (git submodule → quanttide-laboratory-of-growth-management) |
+| `data/context` | 增长管理语境 (git submodule → quanttide-context-of-growth-management) |
 | `data/journal` | 增长管理工作日志 (git submodule → quanttide-journal-of-growth-management) |
 | `data/profile` | 增长管理工作档案 (git submodule → quanttide-profile-of-growth-management) |
+| `data/intention` | 增长管理意图 (git submodule → quanttide-intention-of-growth-management) |
+| `data/roadmap` | 增长管理路线图 (git submodule → quanttide-roadmap-of-growth-management) |
+| `data/insight` | 增长管理洞察 (git submodule → quanttide-insight-of-growth-management) |
 | `data/brochure` | 增长管理宣传册 (git submodule → quanttide-brochure-of-growth-management) |
-| `docs/` | 领域文档 |
+| `data/report` | 增长管理报告 (git submodule → quanttide-report-of-growth-management) |
+| `data/library` | 增长管理参考 (git submodule → quanttide-library-of-growth-management) |
+| `data/history` | 增长管理历史 (git submodule → quanttide-history-of-growth-management) |
+| `data/archive` | 增长管理归档 (git submodule → quanttide-archive-of-growth-management) |
+| `docs/bylaw` | 增长管理章程 (git submodule → quanttide-bylaw-of-growth-management) |
+| `docs/handbook` | 增长管理工作手册 (git submodule → quanttide-handbook-of-growth-management) |
+| `docs/specification` | 增长管理标准 (git submodule → quanttide-specification-of-growth-management) |
+| `docs/tutorial` | 增长管理教程 (git submodule → quanttide-tutorial-of-growth-management) |
+| `docs/essay` | 增长管理札记 (git submodule → quanttide-essay-of-growth-management) |
+| `docs/gallery` | 增长管理案例集 (git submodule → quanttide-gallery-of-growth-management) |
 
 ## 许可
 
